@@ -1,3 +1,13 @@
+## ToDo
+
+- [ ] Responsividade => Aplicação de uso para mobile, também, dicas em canal da rocketseat.
+- [ ] Tema dark => Adaptar ao tema dark ou light no próprio navegador (Live Stage 4, onde mostra o schema de tema).
+- [ ] Versão PWA => Ele por padrão tem suporte a PWA, no serviceWorker, procurar no google com guias, permitindo que o webAPP seja acessível com formato de APP.
+- [ ] Outros bancos de dados => Supabase, versão open source do firebase, com funcionalidade de banco de dados relacional. Firestore, FaunaDB, etc.
+- [ ] Styled Components => Biblioteca de CSS mais utilizada, mistura sass com otimizações para o React.
+- [ ] ESLint & Prettier => Padronização de projeto corretamente.
+- [ ] Melhorar o github docs, melhorando o README.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
